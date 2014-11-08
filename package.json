@@ -1,0 +1,19 @@
+{
+  "name": "meetup-minion",
+  "version": "1.0.0",
+  "description": "Track which meetup members are flaky",
+  "main": "minion.js",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "nedb": "^0.11.1",
+    "node-persist": "^0.0.2",
+    "request": "^2.42.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony He",
+  "license": "CC-A-NC"
+}
