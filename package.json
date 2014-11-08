@@ -12,8 +12,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "minion.js"
   },
+  "main": "minion.js",
   "author": "Tony He",
   "license": "CC-A-NC"
 }
