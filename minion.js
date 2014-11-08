@@ -106,4 +106,4 @@ var minion = function() {
 };
 
 minion();
-setInterval(function(){minion();},300000); // Do this every 5 min 
+setInterval(function(){minion();},3600000); // Do this every hour
